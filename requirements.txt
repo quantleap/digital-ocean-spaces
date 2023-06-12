@@ -23,7 +23,7 @@ pyaes==1.6.1
 pyaml==21.8.3
 pycodestyle==2.7.0
 pycparser==2.20
-Pygments==2.10.0
+Pygments>=2.10.0
 pyparsing==2.4.7
 python-dateutil==2.8.2
 PyYAML==5.4.1
